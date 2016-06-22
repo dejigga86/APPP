@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Extra1"
+
+            android:title="Raumplan" />
+
+
+        <item
+            android:id="@+id/Navigation"
+
+            android:title="Indoor-Navigation"
+
+            />
+        <item
+            android:id="@+id/Stundenplan"
+
+            android:title="Stundenplan" />
+        <item
+            android:id="@+id/Einstellungen"
+
+            android:title="Einstellungen" />
+        <item
+            android:id="@+id/Anmelden"
+
+            android:title="Anmelden" />
+        <item
+            android:id="@+id/Rssfeed"
+
+            android:title="RSS" />
+
+
+
+
+
+
+
+    </group>
+
+
+
+</menu>

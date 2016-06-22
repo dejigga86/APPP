@@ -1,0 +1,2 @@
+CHANGED,C:\Users\Tobias\AndroidStudioProjects\MyApplication2\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\tobias\myapplication\registrieren.class
+REMOVED,C:\Users\Tobias\AndroidStudioProjects\MyApplication2\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\tobias\myapplication\registrieren$SimpleQuery.class
